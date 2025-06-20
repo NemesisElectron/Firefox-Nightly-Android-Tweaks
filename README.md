@@ -12,4 +12,10 @@ gfx.webrender.precache-shaders\
 gfx.webrender.wait-gpu-finished.disabled\
 layers.acceleration.force-enabled\
 layers.gpu-process.force-enabled\
+media.ffmpeg.disable-software-fallback\
 media.gpu-process-decoder
+
+# Set To False
+gfx.webrender.fallback.software\
+gfx.webrender.software.d3d11\
+gfx.webrender.software.opengl
