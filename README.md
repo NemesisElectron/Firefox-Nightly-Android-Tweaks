@@ -8,6 +8,7 @@ gfx.webrender.all\
 gfx.webrender.compositor\
 gfx.webrender.compositor.force-enabled\
 gfx.webrender.layer-compositor\
+gfx.webrender.precache-shaders\
 gfx.webrender.wait-gpu-finished.disabled\
 layers.acceleration.force-enabled\
 layers.gpu-process.force-enabled\
