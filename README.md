@@ -13,7 +13,8 @@ gfx.webrender.wait-gpu-finished.disabled\
 layers.acceleration.force-enabled\
 layers.gpu-process.force-enabled\
 media.ffmpeg.disable-software-fallback\
-media.gpu-process-decoder
+media.gpu-process-decoder\
+media.hardware-video-decoding.force-enabled
 
 # Set To False
 gfx.webrender.fallback.software\
