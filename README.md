@@ -1,4 +1,4 @@
-# Set To True
+# Toggle to `true`
 dom.webgpu.allow-present-without-readback\
 gfx.canvas.accelerated.force-enabled\
 gfx.canvas.remote\
@@ -16,7 +16,7 @@ media.ffmpeg.disable-software-fallback\
 media.gpu-process-decoder\
 media.hardware-video-decoding.force-enabled
 
-# Set To False
+# Toggle to `false`
 gfx.webrender.fallback.software\
 gfx.webrender.software.d3d11\
 gfx.webrender.software.opengl
